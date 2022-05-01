@@ -1,0 +1,116 @@
+.totle{
+    /* position: relative; */
+    background-color: #fff;
+    display: block;
+    height: 490px;
+    width: 1000px;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: rgb(46, 44, 44);
+    border: 2px solid #ff2832;
+    background-color: #fff;
+
+
+    border-top: none;
+    display: flex;
+
+}
+.red{
+    color: #ff2832;
+}
+.navYing,.navPhone{
+    height: 620px;
+    position: relative;
+
+}
+.top{
+height: 20px;
+width: 70px;
+display: flex;
+color: aliceblue;
+background-color: rgb(155, 154, 154);
+margin-right: 12px;
+justify-content: space-between;
+text-align: center;
+}
+.top .icon{
+fill: aliceblue;
+width: 13px;
+height: 13px;
+}
+.pic{
+background-color: rgb(185, 182, 182);
+width: 20px;
+height: 20px;
+padding-top: 3px;
+}
+.Top{
+display: flex;
+}
+.topT{
+text-align: center;
+width: 50px;
+}
+.bangdan .icon{
+width: 20px;
+height: 15px;
+}
+.paihang{
+display: flex;
+
+font-weight: 150;
+color: rgb(46, 44, 44);
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.bangdan{
+display: flex;
+
+}
+.bangdan .icon{
+margin-left: 20px;
+margin-right: 20px;
+fill: rgb(46, 44, 44);
+}
+.line{
+display: flex;
+padding-bottom: 7px;
+font-weight: 150;
+color: rgb(46, 44, 44);
+}
+.line1{
+margin-top: 10px;
+}
+.Name{
+display: flex;
+width: 630px;
+flex-flow: wrap;
+border-top: 0.02px dashed rgb(196, 194, 194);
+
+}
+.Name1{
+border-top: none;
+}
+.name{
+border-left: 1px solid rgb(196, 194, 194);
+height: 13px;
+line-height: 13px;
+padding-left: 10px;
+padding-right:10px;
+margin-top: 10px;
+}
+.title{
+color: #ff2832;
+font-weight: 650;
+width: 80px;
+padding-top: 10px;
+}
+.right{
+display: flex;
+width: 350px;
+margin-left: 30px;
+}
+.right img{
+margin-top: 18px;
+}

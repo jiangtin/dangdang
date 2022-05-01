@@ -1,0 +1,95 @@
+.totle{
+    width: 1000px;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: rgb(46, 44, 44);
+    border: 2px solid #ff2832;
+    border-top: none;
+    height: 490px;
+    background-color: #fff;
+
+}
+.red{
+    color: #ff2832;
+}
+.top{
+height: 20px;
+width: 70px;
+display: flex;
+color: aliceblue;
+background-color: rgb(155, 154, 154);
+margin-right: 12px;
+justify-content: space-between;
+text-align: center;
+}
+.top .icon{
+fill: aliceblue;
+width: 13px;
+height: 13px;
+}
+.pic{
+background-color: rgb(185, 182, 182);
+width: 20px;
+height: 20px;
+padding-top: 3px;
+}
+.Top{
+display: flex;
+}
+.topT{
+text-align: center;
+width: 50px;
+}
+.bangdan .icon{
+width: 20px;
+height: 15px;
+}
+.paihang{
+display: flex;
+
+font-weight: 150;
+color: rgb(46, 44, 44);
+margin-top: 10px;
+padding-bottom: 5px;
+}
+.bangdan{
+display: flex;
+
+}
+.bangdan .icon{
+margin-left: 20px;
+margin-right: 20px;
+fill: rgb(46, 44, 44);
+}
+.line{
+display: flex;
+padding-bottom: 7px;
+font-weight: 150;
+color: rgb(46, 44, 44);
+}
+.Name{
+display: flex;
+width: 950px;
+flex-flow: wrap;
+border-top: 0.02px dashed rgb(196, 194, 194);
+
+}
+.name{
+border-left: 1px solid rgb(196, 194, 194);
+height: 13px;
+line-height: 13px;
+padding-left: 10px;
+padding-right:10px;
+margin-top: 10px;
+}
+.title{
+color: #ff2832;
+font-weight: 650;
+width: 80px;
+padding-top: 10px;
+}
+.pai{
+height: 30px;
+line-height: 3px;
+}
